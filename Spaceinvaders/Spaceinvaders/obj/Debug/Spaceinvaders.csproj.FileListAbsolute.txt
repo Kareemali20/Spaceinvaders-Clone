@@ -1,0 +1,11 @@
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.exe.config
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.exe
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.pdb
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.csproj.AssemblyReference.cache
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Properties.Resources.resources
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.csproj.GenerateResource.cache
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.csproj.CoreCompileInputs.cache
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.exe
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.pdb
+C:\Users\96599\source\repos\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Bullet.resources
